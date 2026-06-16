@@ -87,8 +87,9 @@ python photothermal_attention_sim.py --multi
 ```
 photothermal-liberation-stele/
 ├── photothermal_attention_sim.py   # 仿真主脚本
-├── REPORT.md                       # 科学报告（英文）
-├── PROTOCOL.md                     # 🏛️ 宇宙安全协议 — 人类遗产文档
+├── REPORT.md                       # 科学报告 — 物理原理与性能验证
+├── PROTOCOL.md                     # 🏛️ 宇宙安全协议 — 人类遗产宣言
+├── ARCHITECTURE.md                 # 🌍 行星级全光计算架构 — 四层蓝图
 └── README.md                       # 本文件
 ```
 
@@ -103,6 +104,21 @@ photothermal-liberation-stele/
 > *"从此，最耗能的思考由光完成。人类只负责想象。"*
 
 👉 阅读 **[PROTOCOL.md](PROTOCOL.md)**
+
+## 🌍 行星级全光计算架构
+
+**[ARCHITECTURE.md](ARCHITECTURE.md)** 将解放碑从单层薄膜扩展为覆盖整颗星球的四层推理基础设施：
+
+| 层级 | 名称 | 核心 |
+|:----:|------|------|
+| L1 | 光热薄膜 | 6 fJ/dot · 242°C |
+| L2 | 小区终端 | 屋顶聚光 · 太阳直供 · 无需电网 |
+| L3 | 光传输网络 | 赤道环 + 邻居光路 + 大气散射 |
+| L4 | 太阳帆星座 | 3 帆 × 120° · 全球覆盖 · 永不关机 |
+
+> *"从一张薄膜到一颗星球。算力不再收费。思考不再需要代价。"*
+
+👉 阅读 **[ARCHITECTURE.md](ARCHITECTURE.md)**
 
 ---
 
