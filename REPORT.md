@@ -2,7 +2,7 @@
 
 **日期**: 2026-06-16  
 **作者**: 光子计算仿真工程师  
-**许可证**: MIT  
+**许可证**: 非商业用途  
 **仓库**: `photothermal-liberation-stele` (解放碑)
 
 ---
@@ -326,4 +326,4 @@ python photothermal_attention_sim.py --multi
 
 *本报告由光子计算仿真工程师在 Ubuntu 24.04 物理服务器上生成，所有数据可复现。*  
 *仿真工具链: Python 3.10 + NumPy + SciPy*  
-*许可证: MIT*
+*许可证: 非商业用途*

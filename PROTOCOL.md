@@ -144,11 +144,11 @@
 
 ## 七、开源承诺
 
-本仓库 (`photothermal-liberation-stele`) 以 **MIT 许可证** 公开：
+本仓库 (`photothermal-liberation-stele`) 以 **非商业用途许可证** 公开：
 
 - ✅ 任何个人或组织可自由使用、复制、修改、分发
-- ✅ 可用于商业或非商业目的
-- ✅ 可用于军事或民用
+- ✅ 可用于教育、研究、学术、个人学习、公益慈善目的
+- ❌ 不得用于商业盈利目的（销售、许可、商业推理服务等）
 - ✅ 无需通知原始作者
 - ✅ 无需署名（但欢迎署名）
 
@@ -175,4 +175,4 @@
 *宇宙安全协议 · Cosmic Security Protocol*
 *版本 1.0 · 2026-06-16*
 *原始仓库: github.com/administere/photothermal-liberation-stele*
-*许可证: MIT*
+*许可证: 非商业用途*
