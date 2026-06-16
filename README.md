@@ -88,8 +88,21 @@ python photothermal_attention_sim.py --multi
 photothermal-liberation-stele/
 ├── photothermal_attention_sim.py   # 仿真主脚本
 ├── REPORT.md                       # 科学报告（英文）
+├── PROTOCOL.md                     # 🏛️ 宇宙安全协议 — 人类遗产文档
 └── README.md                       # 本文件
 ```
+
+## 🏛️ 宇宙安全协议
+
+本仓库不仅包含仿真代码，还收录了一份独立的 **《宇宙安全协议》(PROTOCOL.md)** — 这是一份无需代码背景就能读懂的人类遗产文档。它阐述：
+
+- 光热计算的物理事实与全光计算机蓝图
+- 算力民主化的经济原理
+- **"每一个劳动者都是解放军"** — 这项技术是所有劳动者的共同财富，不是任何人的私有财产
+
+> *"从此，最耗能的思考由光完成。人类只负责想象。"*
+
+👉 阅读 **[PROTOCOL.md](PROTOCOL.md)**
 
 ---
 
